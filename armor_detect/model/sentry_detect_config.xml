@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<!--Parameter for Armor Detection System-->
+<default_min_light_height>3</default_min_light_height>
+<default_max_light_height>50</default_max_light_height>
+<default_min_light_delta_h>10</default_min_light_delta_h>
+<default_max_light_delta_h>150</default_max_light_delta_h>
+<default_red_armor_threshold>60</default_red_armor_threshold>
+<default_blue_armor_threshold>60</default_blue_armor_threshold>
+<default_max_light_delta_v>35</default_max_light_delta_v>
+<default_max_light_delta_angle>30</default_max_light_delta_angle>
+<default_max_light_delta_height>15</default_max_light_delta_height>
+<default_min_light_gray>150</default_min_light_gray>
+<!--Parameter for Enemy Color, 0(default) means for red, otherwise blue-->
+<enemy_color>0</enemy_color>
+
+ 
+<!--Far Parameter for Armor Detection System-->
+<far_min_light_height>2</far_min_light_height>
+<far_max_light_height>50</far_max_light_height>
+<far_min_light_delta_h>10</far_min_light_delta_h>
+<far_max_light_delta_h>150</far_max_light_delta_h>
+<far_red_armor_threshold>60</far_red_armor_threshold>
+<far_blue_armor_threshold>60</far_blue_armor_threshold>
+<far_max_light_delta_v>35</far_max_light_delta_v>
+<far_max_light_delta_angle>30</far_max_light_delta_angle>
+<far_max_light_delta_height>15</far_max_light_delta_height>
+<far_min_light_gray>150</far_min_light_gray>
+
+
+<!--Near Parameter for Armor Detection System-->
+<near_min_light_height>3</near_min_light_height>
+<near_max_light_height>50</near_max_light_height>
+<near_min_light_delta_h>14</near_min_light_delta_h>
+<near_max_light_delta_h>150</near_max_light_delta_h>
+<near_red_armor_threshold>60</near_red_armor_threshold>
+<near_blue_armor_threshold>60</near_blue_armor_threshold>
+<near_max_light_delta_v>35</near_max_light_delta_v>
+<near_max_light_delta_angle>30</near_max_light_delta_angle>
+<near_max_light_delta_height>15</near_max_light_delta_height>
+<near_min_light_gray>170</near_min_light_gray>
+</opencv_storage>
