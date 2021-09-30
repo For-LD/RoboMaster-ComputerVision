@@ -13,6 +13,11 @@
 # 步兵外观图
 ![image](https://github.com/For-LD/RoboMaster-ComputerVision/blob/main/source/Infantry.jpg)
 
+# 另外秀一下自己组装的无人机
+![image](https://github.com/For-LD/RoboMaster-ComputerVision/blob/main/source/Drone.jpg)
+### [<<视频展示>> 无人机炸机之旅](https://live.csdn.net/v/177529)
+
+
 ## 源码目录
 ```
 │  .gitattributes
